@@ -1,6 +1,6 @@
 /* Name: Alyssa Choi
  * Section leader: Ayelet Drazen
- * Assignment brief: define the PQHeap (priority queue) class and methods using a binary min-heap.
+ * Assignment brief: define the PQHeap (priority queue) class and methods using a binary min-heap. The header file, "pqheap.h" is in this repository.
  */
 #include "pqheap.h"
 #include "error.h"
